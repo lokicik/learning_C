@@ -9,7 +9,7 @@ ekrana_sirali_karakter_yazdirma: Is about printing numbers symmetrically on the 
 
 example given input = 10:
 
-           1
+``         1
           212
          32123
         4321234
@@ -27,7 +27,7 @@ example given input = 10:
         4321234
          32123
           212
-           1
+           1``
 
 finalvizenothesaplama: Is about calculating midterm and final grades.
 
