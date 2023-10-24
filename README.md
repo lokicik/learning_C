@@ -6,7 +6,9 @@ asal_sayi_bolenleri_bulma: Is about detecting prime numbers and their divisors f
 daire_yaricap_alan_hesaplama: Is about finding the circle's area and perimeter from given input raidus
 
 ekrana_sirali_karakter_yazdirma: Is about printing numbers symmetrically on the screen.
+
 example given input = 10:
+
            1
           212
          32123
