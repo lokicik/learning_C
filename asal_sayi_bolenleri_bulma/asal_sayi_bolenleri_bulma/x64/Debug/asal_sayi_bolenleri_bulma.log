@@ -1,0 +1,5 @@
+﻿  asal_sayi_bolenleri_bulma.cpp
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma.cpp(11,11): warning C4476: 'scanf' : biçim tanımlayıcıda '.' bilinmeyen tür alanı karakteri
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma.cpp(11,21): warning C4474: 'scanf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma\asal_sayi_bolenleri_bulma.cpp(11,21): message : yer tutucular ve bunların parametreleri 0 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+  asal_sayi_bolenleri_bulma.vcxproj -> C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_bolenleri_bulma\x64\Debug\asal_sayi_bolenleri_bulma.exe
