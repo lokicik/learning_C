@@ -1,0 +1,4 @@
+﻿  daire_yaricap_alan_hesaplama.cpp
+C:\Users\LOKMAN\Desktop\visualstudio\daire_yaricap_alan_hesaplama\daire_yaricap_alan_hesaplama\daire_yaricap_alan_hesaplama.cpp(10,16): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\LOKMAN\Desktop\visualstudio\daire_yaricap_alan_hesaplama\daire_yaricap_alan_hesaplama\daire_yaricap_alan_hesaplama.cpp(11,17): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  daire_yaricap_alan_hesaplama.vcxproj -> C:\Users\LOKMAN\Desktop\visualstudio\daire_yaricap_alan_hesaplama\x64\Debug\daire_yaricap_alan_hesaplama.exe
