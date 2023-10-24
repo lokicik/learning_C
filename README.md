@@ -7,7 +7,7 @@ daire_yaricap_alan_hesaplama: Is about finding the circle's area and perimeter f
 
 ekrana_sirali_karakter_yazdirma: Is about printing numbers symmetrically on the screen.
 
-example given input = 10:
+example for given input = 10:
 
 ```         
            1
