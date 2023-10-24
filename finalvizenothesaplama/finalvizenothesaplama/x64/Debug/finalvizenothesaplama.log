@@ -1,0 +1,3 @@
+﻿  finalvizenothesaplama.cpp
+C:\Users\LOKMAN\Desktop\visualstudio\finalvizenothesaplama\finalvizenothesaplama\finalvizenothesaplama.cpp(15,22): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  finalvizenothesaplama.vcxproj -> C:\Users\LOKMAN\Desktop\visualstudio\finalvizenothesaplama\x64\Debug\finalvizenothesaplama.exe
