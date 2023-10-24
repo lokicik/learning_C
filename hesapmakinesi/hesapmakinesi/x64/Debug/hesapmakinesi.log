@@ -1,0 +1,4 @@
+﻿  hesapmakinesi.cpp
+C:\Users\LOKMAN\Desktop\visualstudio\hesapmakinesi\hesapmakinesi\hesapmakinesi.cpp(29,94): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\LOKMAN\Desktop\visualstudio\hesapmakinesi\hesapmakinesi\hesapmakinesi.cpp(29,94): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 3 tane sağlandı
+  hesapmakinesi.vcxproj -> C:\Users\LOKMAN\Desktop\visualstudio\hesapmakinesi\x64\Debug\hesapmakinesi.exe
