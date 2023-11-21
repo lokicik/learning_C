@@ -1,0 +1,7 @@
+﻿  asal_sayi_adedi.cpp
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\asal_sayi_adedi\asal_sayi_adedi.cpp(54,11): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\asal_sayi_adedi\asal_sayi_adedi.cpp(55,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 3 değişen sayıda bağımsız değişkenin türü '__int64'
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\asal_sayi_adedi\asal_sayi_adedi.cpp(55,12): message : biçim dizesinde '%lld' kullanmayı düşünün
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\asal_sayi_adedi\asal_sayi_adedi.cpp(55,12): message : biçim dizesinde '%Id' kullanmayı düşünün
+C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\asal_sayi_adedi\asal_sayi_adedi.cpp(55,12): message : biçim dizesinde '%I64d' kullanmayı düşünün
+  asal_sayi_adedi.vcxproj -> C:\Users\LOKMAN\Desktop\visualstudio\asal_sayi_adedi\x64\Debug\asal_sayi_adedi.exe
